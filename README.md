@@ -11,6 +11,7 @@ Any questions or inqueries are welcomed at issues in this repository or <brainli
     - Raw fMRI data: [OpenNeuro](https://openneuro.org/datasets/ds001246)
     - Preprocessed fMRI data and image features: [figshare](https://figshare.com/articles/Generic_Object_Decoding/7387130)
 - Demo code: [GitHub](https://github.com/KamitaniLab/GenericObjectDecoding)
+- [Questions and answers](god_qa.md)
 
 ## Deep Image Reconstruction
 
@@ -19,3 +20,4 @@ Any questions or inqueries are welcomed at issues in this repository or <brainli
     - Raw fMRI data: [OpenNeuro](https://openneuro.org/datasets/ds001506)
     - Decoded DNN features: [figshare](https://figshare.com/articles/Deep_Image_Reconstruction/7033577)
 - Demo code: [GitHub](https://github.com/KamitaniLab/DeepImageReconstruction)
+- [Questions and answers](deeprecon_qa.md)
