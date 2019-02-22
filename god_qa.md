@@ -4,4 +4,4 @@
 
 We do not include stimulus image files in the open dataset because of license issues.
 Instead, we provide a downloading script at [GitHub](https://github.com/KamitaniLab/GenericObjectDecoding).
-Alternatively, you can contact us via [email](brainliner-admin@atr.jp) for sharing the image files.
+Alternatively, you can contact us via [email](mailto:brainliner-admin@atr.jp) for sharing the image files.
