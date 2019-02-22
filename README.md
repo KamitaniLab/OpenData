@@ -2,7 +2,7 @@
 
 This is a portal to public datasets released by Kamitani lab, Kyoto Univ and ATR.
 
-Any questions or inqueries are welcomed at issues in this repository or <brainliner-admin@atr.jp>.
+Any questions or inqueries are welcomed at [issues in this repository](https://github.com/KamitaniLab/OpenData/issues) or <brainliner-admin@atr.jp>.
 
 ## Generic Object Decoding
 
