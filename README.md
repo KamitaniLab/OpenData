@@ -39,3 +39,10 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 - Reference: [Horikawa, Tamaki, Miyawaki, and Kamitani (2013) Neural Decoding of Visual Imagery During Sleep. *Science*.](https://science.sciencemag.org/content/340/6132/639)
 - Data: [Brainliner](http://brainliner.jp/data/brainliner/Human_Dream_Decoding)
 - Demo code: [GitHub](https://github.com/KamitaniLab/HumanDreamDecoding)
+
+## Position decoding
+
+- Reference: 
+[Majima, Sukhanov, Horikawa, and Kamitani (2017) Position Information Encoded by Population Activity in Hierarchical Visual Areas. *eNeuro*.](http://www.eneuro.org/content/4/2/ENEURO.0268-16.2017)
+- Data: [Brainliner](http://brainliner.jp/data/brainliner/Position_Decoding)
+- Demo code: [GitHub](https://github.com/KamitaniLab/PositionDecoding)
