@@ -52,3 +52,9 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 - Reference: [Abdelhack and Kamitani (2018) Sharpening of Hierarchical Visual Feature Representations of Blurred Images. *eNeuro*.](http://www.eneuro.org/content/5/3/ENEURO.0443-17.2018)
 - Data: [Brainliner](http://brainliner.jp/data/brainliner/Blur_Image_Sharpening)
 - Demo code: [GitHub](https://github.com/KamitaniLab/BlurImageSharpening)
+
+## Blur Image Misrecognition
+
+- Reference: [Abdelhack and Kamitani (2019) Conflicting Bottom-up and Top-down Signals during Misrecognition of Visual Object. *bioRxiv*.](https://www.biorxiv.org/content/10.1101/521252v1)
+- Data: [figshare](https://github.com/KamitaniLab/BlurMisrecognition/blob/master)
+- Demo code: [GitHub](https://github.com/KamitaniLab/BlurMisrecognition)
