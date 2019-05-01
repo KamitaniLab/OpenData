@@ -46,3 +46,9 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 [Majima, Sukhanov, Horikawa, and Kamitani (2017) Position Information Encoded by Population Activity in Hierarchical Visual Areas. *eNeuro*.](http://www.eneuro.org/content/4/2/ENEURO.0268-16.2017)
 - Data: [Brainliner](http://brainliner.jp/data/brainliner/Position_Decoding)
 - Demo code: [GitHub](https://github.com/KamitaniLab/PositionDecoding)
+
+## Blur Image Sharpening
+
+- Reference: [Abdelhack and Kamitani (2018) Sharpening of Hierarchical Visual Feature Representations of Blurred Images. *eNeuro*].
+- Data: [Brainliner](http://brainliner.jp/data/brainliner/Blur_Image_Sharpening)
+- Demo code: [GitHub](https://github.com/KamitaniLab/BlurImageSharpening)
