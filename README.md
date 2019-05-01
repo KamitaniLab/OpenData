@@ -18,7 +18,7 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 - Reference: [Shen, Horikawa, Majima, and Kamitani (2019) Deep image reconstruction from human brain activity. *PLOS Computational Biology*.](http://dx.doi.org/10.1371/journal.pcbi.1006633)
 - Data
     - Raw fMRI data: [OpenNeuro](https://openneuro.org/datasets/ds001506)
-    - Decoded DNN features: [figshare](https://figshare.com/articles/Deep_Image_Reconstruction/7033577)
+    - Preprocessed fMRI data and decoded DNN features: [figshare](https://figshare.com/articles/Deep_Image_Reconstruction/7033577)
 - Demo code: [GitHub](https://github.com/KamitaniLab/DeepImageReconstruction)
 - [Questions and answers](deeprecon_qa.md)
 
