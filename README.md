@@ -28,3 +28,14 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 - Data
     - Trained networks: [figshare](https://figshare.com/articles/End-to-end_deep_image_reconstruction_from_human_brain_activity/7916144)
 - Demo code: [GitHub](https://github.com/KamitaniLab/End2EndDeepImageReconstruction)
+
+## Visual Image Reconstruction
+
+- Reference: [Miyawaki, Uchida, Yamashita, Sato, Morito, Tanabe, Sadato, and Kamitani (2008) Visual Image Reconstruction from Human Brain Activity using a Combination of Multiscale Local Image Decoders. *Neuron*.](https://www.cell.com/neuron/fulltext/S0896-6273(08)00958-6)
+- Data and code: [Brainliner](http://brainliner.jp/data/brainliner/Visual_Image_Reconstruction)
+
+## Human dream decoding
+
+- Reference: [Horikawa, Tamaki, Miyawaki, and Kamitani (2013) Neural Decoding of Visual Imagery During Sleep. *Science*.](https://science.sciencemag.org/content/340/6132/639)
+- Data: [Brainliner](http://brainliner.jp/data/brainliner/Human_Dream_Decoding)
+- Demo code: [GitHub](https://github.com/KamitaniLab/HumanDreamDecoding)
