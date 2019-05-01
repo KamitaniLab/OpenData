@@ -49,6 +49,6 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 
 ## Blur Image Sharpening
 
-- Reference: [Abdelhack and Kamitani (2018) Sharpening of Hierarchical Visual Feature Representations of Blurred Images. *eNeuro*].
+- Reference: [Abdelhack and Kamitani (2018) Sharpening of Hierarchical Visual Feature Representations of Blurred Images. *eNeuro*.](http://www.eneuro.org/content/5/3/ENEURO.0443-17.2018)
 - Data: [Brainliner](http://brainliner.jp/data/brainliner/Blur_Image_Sharpening)
 - Demo code: [GitHub](https://github.com/KamitaniLab/BlurImageSharpening)
