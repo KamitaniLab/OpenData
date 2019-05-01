@@ -21,3 +21,10 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
     - Decoded DNN features: [figshare](https://figshare.com/articles/Deep_Image_Reconstruction/7033577)
 - Demo code: [GitHub](https://github.com/KamitaniLab/DeepImageReconstruction)
 - [Questions and answers](deeprecon_qa.md)
+
+## End-to-end Deep Image Reconstruction
+
+- Reference: [Shen, Dwivedi, Majima, Horikawa, and Kamitani (2019) End-to-End Deep Image Reconstruction From Human Brain Activity. *Frontiers in Computational Neuroscience*.](https://www.frontiersin.org/articles/10.3389/fncom.2019.00021/full)
+- Data
+    - Trained networks: [figshare](https://figshare.com/articles/End-to-end_deep_image_reconstruction_from_human_brain_activity/7916144)
+- Demo code: [GitHub](https://github.com/KamitaniLab/End2EndDeepImageReconstruction)
