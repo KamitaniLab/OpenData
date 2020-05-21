@@ -56,7 +56,7 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 ## Blur Image Misrecognition
 
 - Reference: [Abdelhack and Kamitani (2019) Conflicting Bottom-up and Top-down Signals during Misrecognition of Visual Object. *bioRxiv*.](https://www.biorxiv.org/content/10.1101/521252v1)
-- Data: [figshare](https://github.com/KamitaniLab/BlurMisrecognition/blob/master)
+- Data: [figshare](https://figshare.com/articles/Blur_Misrecognition/7562516)
 - Demo code: [GitHub](https://github.com/KamitaniLab/BlurMisrecognition)
 
 ## The neural representation of visually evoked emotion is high-dimensional, categorical, and distributed across transmodal brain regions
