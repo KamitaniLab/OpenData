@@ -3,7 +3,7 @@
 ## How can I get stimulus images?
 
 We do not include stimulus image files in the open dataset because of license issues.
-Please contact us via [email](mailto:brainliner-admin@atr.jp) for sharing the image files.
+Please contact us via [email](mailto:kamitanilab@gmail.com) for sharing the image files.
 
 ## How can I get field maps for distortion correction in the fMRI data?
 
