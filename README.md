@@ -64,3 +64,8 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 - Reference: [Horikawa, Cowen, Keltner, and Kamitani (2020) The Neural Representation of Visually Evoked Emotion Is High-Dimensional, Categorical, and Distributed across Transmodal Brain Regions. *iScience*.](https://www.sciencedirect.com/science/article/pii/S2589004220302455)
 - Data: [OpenNeuro](https://openneuro.org/datasets/ds002425), [figshare](https://figshare.com/articles/The_neural_representation_of_visually_evoked_emotion_is_high-dimensional_categorical_and_distributed_across_transmodal_brain_regions/11988351)
 - Demo code: [GitHub](https://github.com/KamitaniLab/EmotionVideoNeuralRepresentation)
+
+## Attentionally modulated subjective images reconstructed from brain activity
+
+- Reference: [Horikawa & Kamitani (2022) Attention modulates neural representation to render reconstructions according to subjective appearance. *Communications Biology*.](https://www.nature.com/articles/s42003-021-02975-5)
+- Data: [figshare](https://figshare.com/articles/dataset/Attentionally_modulated_subjective_images_reconstructed_from_brain_activity/13474629)
