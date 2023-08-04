@@ -40,7 +40,9 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 ## Blur Image Sharpening
 
 - Paper: [Abdelhack and Kamitani (2018) Sharpening of Hierarchical Visual Feature Representations of Blurred Images. *eNeuro*.](http://www.eneuro.org/content/5/3/ENEURO.0443-17.2018)
-- Data: [Brainliner](http://brainliner.jp/data/brainliner/Blur_Image_Sharpening)
+- Data
+    - Raw fMRI data: [OpenNeuro](https://openneuro.org/datasets/ds003661)
+    - Preprocessed fMRI and image features: [Brainliner](http://brainliner.jp/data/brainliner/Blur_Image_Sharpening)
 - Code: [GitHub](https://github.com/KamitaniLab/BlurImageSharpening)
 
 ## Blur Image Misrecognition
