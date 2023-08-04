@@ -67,7 +67,9 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 ## The neural representation of visually evoked emotion is high-dimensional, categorical, and distributed across transmodal brain regions
 
 - Paper: [Horikawa, Cowen, Keltner, and Kamitani (2020) The Neural Representation of Visually Evoked Emotion Is High-Dimensional, Categorical, and Distributed across Transmodal Brain Regions. *iScience*.](https://www.sciencedirect.com/science/article/pii/S2589004220302455)
-- Data: [OpenNeuro](https://openneuro.org/datasets/ds002425), [figshare](https://figshare.com/articles/The_neural_representation_of_visually_evoked_emotion_is_high-dimensional_categorical_and_distributed_across_transmodal_brain_regions/11988351)
+- Data
+    - Raw fMRI data: [OpenNeuro](https://openneuro.org/datasets/ds002425)
+    - Preprocessed fMRI data and features: [figshare](https://figshare.com/articles/The_neural_representation_of_visually_evoked_emotion_is_high-dimensional_categorical_and_distributed_across_transmodal_brain_regions/11988351)
 - Code: [GitHub](https://github.com/KamitaniLab/EmotionVideoNeuralRepresentation)
 
 ## Position decoding
