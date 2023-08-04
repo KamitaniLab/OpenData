@@ -51,6 +51,13 @@ Any questions or inqueries are welcomed at [issues in this repository](https://g
 - Data: [figshare](https://figshare.com/articles/Blur_Misrecognition/7562516)
 - Code: [GitHub](https://github.com/KamitaniLab/BlurMisrecognition)
 
+## Inter-individual deep image reconstruction
+
+- Paper: [Ho, Horikawa, Majima, and Kamitani (2022) Inter-individual deep image reconstruction. *bioRxiv*.](https://www.biorxiv.org/content/10.1101/2021.12.31.474501v1)
+    - Raw fMRI data: [OpenNeuro](https://openneuro.org/datasets/ds003993)
+    - Preprocessed fMRI: [figshare](https://figshare.com/articles/dataset/Inter-individual_deep_image_reconstruction/17985578)
+- Code: [GitHub](https://github.com/KamitaniLab/InterIndividualDeepImageReconstruction)
+
 ## Human dream decoding
 
 - Paper: [Horikawa, Tamaki, Miyawaki, and Kamitani (2013) Neural Decoding of Visual Imagery During Sleep. *Science*.](https://science.sciencemag.org/content/340/6132/639)
